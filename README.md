@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<![TryHackMe Badge](https://raw.githubusercontent.com/GMdevcode/GMdevcode/master/assets/thm_propic.png)
+![TryHackMe Badge](https://raw.githubusercontent.com/GMdevcode/GMdevcode/master/assets/thm_propic.png)
 
 **GMdevcode/GMdevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
