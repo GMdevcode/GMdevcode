@@ -33,4 +33,4 @@ Share my learning journey with the community
 
 🤝 Let’s Connect
 
-💼 LinkedIn
+💼 https://www.linkedin.com/in/gmmichael/
