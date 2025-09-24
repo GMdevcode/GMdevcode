@@ -3,9 +3,8 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/GM4saken.png?" alt="Your Image Badge" />
 
 
-**GMdevcode/GMdevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👋 Hi, I’m Georgios Michael (gmmichael)
+I’m Georgios Michael, 
 
 I’m an entry-level Cybersecurity Analyst passionate about protecting systems and learning new ways to make technology safer. My focus is on building strong foundations in security, while gaining hands-on experience with tools, frameworks, and real-world challenges.
 
