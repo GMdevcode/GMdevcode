@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/GM4saken.png" alt="Your Image Badge" />
+https://tryhackme-badges.s3.amazonaws.com/GM4saken.png?t=12345
+
 
 **GMdevcode/GMdevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
