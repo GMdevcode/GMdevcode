@@ -5,14 +5,32 @@
 
 **GMdevcode/GMdevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi, I’m Georgios Michael (gmmichael)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an entry-level Cybersecurity Analyst passionate about protecting systems and learning new ways to make technology safer. My focus is on building strong foundations in security, while gaining hands-on experience with tools, frameworks, and real-world challenges.
+
+🌱 Currently Learning
+
+Threat modeling & risk assessment
+
+Vulnerability management & penetration testing
+
+Cloud security fundamentals (AWS, Docker, Kubernetes)
+
+Secure coding practices in Python
+
+💻 Skills & Tools
+
+Python · Bash · Linux · Git/GitHub · Networking · SIEM basics
+
+🎯 Goals
+
+Contribute to open-source security projects
+
+Grow my knowledge in cloud and DevSecOps
+
+Share my learning journey with the community
+
+🤝 Let’s Connect
+
+💼 LinkedIn
